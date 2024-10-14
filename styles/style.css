@@ -179,7 +179,9 @@
   padding: 51px 40px 48px;
 }
 
-.card_type_film, .card_type_book, .card_type_picture { 
+.card_type_film, 
+.card_type_book, 
+.card_type_picture { 
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
